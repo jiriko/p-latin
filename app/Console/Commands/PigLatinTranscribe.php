@@ -20,7 +20,7 @@ class PigLatinTranscribe extends PigLatin
      *
      * @var string
      */
-    protected $description = 'Transcribe a word to Pig Latin';
+    protected $description = 'Transcribe a word from Pig Latin';
 
 
     /**
