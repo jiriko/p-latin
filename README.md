@@ -8,5 +8,5 @@
 - php artisan pig-latin:transcribe
 
 Files are found under: app/Console/Commands
-1. PigLatinTranscribe (convert to Pig Latin)
-2. PigLatinTranslate (convert from Pig Latin)
+1. PigLatinTranscribe (convert from Pig Latin)
+2. PigLatinTranslate (convert to Pig Latin)
